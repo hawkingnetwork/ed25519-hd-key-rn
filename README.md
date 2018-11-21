@@ -1,6 +1,4 @@
 ed25519 HD Key React Native
-
-Reference from (https://github.com/alepop/ed25519-hd-key)
 =====
 
 ## Key Derivation for `ed25519`
@@ -9,7 +7,7 @@ Reference from (https://github.com/alepop/ed25519-hd-key)
 
 ## Installation
 
-    npm i --save ed25519-hd-key
+    npm i --save @hawkingnetwork/ed25519-hd-key-rn
 
 ## Usage
 
