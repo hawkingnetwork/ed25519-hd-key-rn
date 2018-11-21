@@ -3,11 +3,22 @@
   "version": "1.0.0",
   "description": "Adapted for React Native compatibility from https://github.com/alepop/ed25519-hd-key",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hawkingnetwork/ed25519-hd-key-rn"
+  },
+  "homepage": "https://github.com/hawkingnetwork/ed25519-hd-key-rn",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "naviocean",
-  "license": "ISC",
+  "license": "GPL-3",
+  "keywords": [
+    "ed25519",
+    "bip32",
+    "slip-0010",
+    "crypto"
+  ],
   "dependencies": {
     "create-hmac": "^1.1.7"
   }
