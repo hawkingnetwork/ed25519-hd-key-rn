@@ -1,5 +1,5 @@
 {
-  "name": "ed25519-hd-key-rn",
+  "name": "@hawkingnetwork/ed25519-hd-key-rn",
   "version": "1.0.0",
   "description": "Adapted for React Native compatibility from https://github.com/alepop/ed25519-hd-key",
   "main": "index.js",
